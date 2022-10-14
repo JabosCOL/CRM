@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Edisson Arley",
+      "telefono": 3244587211,
+      "email": "edisson@hotmail.com",
+      "empresa": "MexIndustries"
+    },
+    {
+      "id": 3,
+      "nombre": "Jimmy Alexander",
+      "telefono": 3114441715,
+      "email": "jimmy@hotmail.com",
+      "empresa": "Tata"
+    },
+    {
+      "id": 4,
+      "nombre": "Karen Miranda",
+      "telefono": 3227769611,
+      "email": "karen@hotmail.com",
+      "empresa": "Seyspro"
+    },
+    {
+      "id": 5,
+      "nombre": "Maria Angela",
+      "telefono": 3154557651,
+      "email": "maria@hotmail.com",
+      "empresa": "BEG"
+    }
+  ]
+}
